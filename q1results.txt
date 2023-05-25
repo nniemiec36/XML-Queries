@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author name="Anoop Gupta" totalPublications="27"/>
+<author name="Kourosh Gharachorloo" totalPublications="15"/>
+<author name="David A. Patterson 0001" totalPublications="12"/>
+<author name="Jaswinder Pal Singh" totalPublications="11"/>
+<author name="Mark Horowitz" totalPublications="11"/>
+<author name="Thomas R. Gross" totalPublications="8"/>
+<author name="Mark A. Heinrich" totalPublications="8"/>
+<author name="Daniel Lenoski" totalPublications="8"/>
+<author name="James Laudon" totalPublications="8"/>
+<author name="Monica S. Lam" totalPublications="7"/>
+<author name="David Nakahira" totalPublications="6"/>
+<author name="Norman P. Jouppi" totalPublications="5"/>
+<author name="Steven A. Przybylski" totalPublications="5"/>
+<author name="David Ofelt" totalPublications="5"/>
+<author name="Richard Simoni" totalPublications="5"/>
+<author name="Truman Joe" totalPublications="5"/>
+<author name="Josep Torrellas" totalPublications="5"/>
+<author name="Chris Holt" totalPublications="4"/>
+<author name="Anant Agarwal" totalPublications="4"/>
+<author name="Aaron J. Goldberg" totalPublications="4"/>
+<author name="Peter Steenkiste" totalPublications="4"/>
+<author name="Christopher Rowen" totalPublications="4"/>
+<author name="Luis Stevens" totalPublications="3"/>
+<author name="Jeffrey Kuskin" totalPublications="3"/>
+<author name="John Heinlein" totalPublications="3"/>
+<author name="Joel Baxter" totalPublications="3"/>
+<author name="Mendel Rosenblum" totalPublications="3"/>
+<author name="Steven W. K. Tjiang" totalPublications="3"/>
+<author name="Fred C. Chow" totalPublications="3"/>
+<author name="Vivek Sarkar" totalPublications="3"/>
+<author name="Forest Baskett" totalPublications="3"/>
+<author name="John Gill" totalPublications="3"/>
+<author name="Mark D. Hill" totalPublications="2"/>
+<author name="Vijayaraghavan Soundararajan" totalPublications="2"/>
+<author name="Phillip B. Gibbons" totalPublications="2"/>
+<author name="John Chapin" totalPublications="2"/>
+<author name="Dror E. Maydan" totalPublications="2"/>
+<author name="Rohit Chandra" totalPublications="2"/>
+<author name="Mahadevan Ganapathi" totalPublications="2"/>
+<author name="Stephen R. Goldschmidt" totalPublications="2"/>
+<author name="Wolf-Dietrich Weber" totalPublications="2"/>
+<author name="Helen Davis" totalPublications="2"/>
+<author name="Richard B. Kieburtz" totalPublications="2"/>
+<author name="Jon Masters" totalPublications="1"/>
+<author name="Parthasarathy Ranganathan" totalPublications="1"/>
+<author name="Paul Turner" totalPublications="1"/>
+<author name="Onur Mutlu" totalPublications="1"/>
+<author name="Rich Belgard" totalPublications="1"/>
+<author name="Chris Rowen" totalPublications="1"/>
+<author name="Yale N. Patt" totalPublications="1"/>
+<author name="Wen-mei W. Hwu" totalPublications="1"/>
+<author name="Stephen W. Melvin" totalPublications="1"/>
+<author name="Michael Shebanow" totalPublications="1"/>
+<author name="Tse-Yu Yeh" totalPublications="1"/>
+<author name="Andy Wolfe" totalPublications="1"/>
+<author name="Mainak Chaudhuri" totalPublications="1"/>
+<author name="Edward Rothberg" totalPublications="1"/>
+<author name="Ben Verghese" totalPublications="1"/>
+<author name="Ken Kennedy" totalPublications="1"/>
+<author name="Charles F. Bender" totalPublications="1"/>
+<author name="John W. D. Connolly" totalPublications="1"/>
+<author name="Mary K. Vernon" totalPublications="1"/>
+<author name="Larry Smarr" totalPublications="1"/>
+<author name="Mark A. Horowitz" totalPublications="1"/>
+<author name="Radhika Thekkath" totalPublications="1"/>
+<author name="Amit Pal Singh" totalPublications="1"/>
+<author name="Susan John" totalPublications="1"/>
+<author name="Andrew Erlichson" totalPublications="1"/>
+<author name="Neal Nuckolls" totalPublications="1"/>
+<author name="Greg Chesson" totalPublications="1"/>
+<author name="Takashi Totsuka" totalPublications="1"/>
+<author name="Robert P. Wilson" totalPublications="1"/>
+<author name="Robert S. French" totalPublications="1"/>
+<author name="Christopher S. Wilson" totalPublications="1"/>
+<author name="Saman P. Amarasinghe" totalPublications="1"/>
+<author name="Jennifer-Ann M. Anderson" totalPublications="1"/>
+<author name="Shih-Wei Liao" totalPublications="1"/>
+<author name="Chau-Wen Tseng" totalPublications="1"/>
+<author name="Mary W. Hall" totalPublications="1"/>
+<author name="Steven Cameron Woo" totalPublications="1"/>
+<author name="Peter Schnorf" totalPublications="1"/>
+<author name="Sarita V. Adve" totalPublications="1"/>
+<author name="Todd C. Mowry" totalPublications="1"/>
+<author name="Michael E. Wolf" totalPublications="1"/>
+<author name="K. Pieper" totalPublications="1"/>
+<author name="Yigal Brandman" totalPublications="1"/>
+<author name="Alon Orlitsky" totalPublications="1"/>
+<author name="Monica Lam 0001" totalPublications="1"/>
+<author name="Thierry Weil" totalPublications="1"/>
+<author name="K. Gopinath" totalPublications="1"/>
+<author name="Scott McFarling" totalPublications="1"/>
+<author name="Charles N. Fischer" totalPublications="1"/>
+<author name="Hilding Elmquist" totalPublications="1"/>
+<author name="Noah Mendelsohn" totalPublications="1"/>
+<author name="Alex Strong" totalPublications="1"/>
+<author name="Judson S. Leonard" totalPublications="1"/>
+<author name="Richard W. Carr" totalPublications="1"/>
+<author name="Michael J. Flynn" totalPublications="1"/>
+<author name="P. Carmody" totalPublications="1"/>
+<author name="A. M. Barone" totalPublications="1"/>
+<author name="J. K. Morrell" totalPublications="1"/>
+<author name="A. Weiner" totalPublications="1"/>
